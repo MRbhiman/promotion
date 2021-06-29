@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('offical channel', url='https://t.me/Mrbhiman'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/mrbhiman12')
+        InlineKeyboardButton('offical channel', url='https://t.me/https://t.me/coldcase_moviedownload'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/GIcD9yyrsvU1ZWQ9')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/mrbhiman12')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/XrbUQzOpNEQ2ZWU1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
