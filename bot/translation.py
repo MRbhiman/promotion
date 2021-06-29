@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} how are you❤️!!</b></u>
-<i>it's a official bot of fast move....😉
+<i>it's a official bot of FILM JUNCTION ❤️....😉
 
-You can't add me to your group it's official bot of fast move 🔥🔥😝
+You can't add me to your group it's official bot of FILM JUNCTION ❤️ 🔥🔥😝
 
 For More Details Click Help Button Below..
-@mrbhiman12
+@coldcase_moviedownload
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,6 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
